@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SDP211-WEB_API.props" />
+</Project>
